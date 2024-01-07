@@ -1,0 +1,1 @@
+in vsc: Terminal>new terminal, opens terminal inside vsc.
